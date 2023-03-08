@@ -2,7 +2,7 @@
 ## this program will run a coffee transaction 
 
 print("\nWelcome to the Bmic Coffe shop, we are always happy to serve you \nWhat do you want to buy? \n")
-product = input("Enter Coffee, Snack, or Water?: ")
+product = input("Enter Coffee, Snack, or Water here: ")
 
 product = product.upper()
 promo_val = 30
