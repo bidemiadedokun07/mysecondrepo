@@ -35,4 +35,7 @@ if product == 'COFFEE':
 	else:
 		print("\n Sorry!, we only do cash") 
 print("Your change is {}" .format(change))
+
+print("Thank you for transacting with us. we love to have you arround")
+
 print()
